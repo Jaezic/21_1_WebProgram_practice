@@ -10,11 +10,12 @@
 ---
 
 ### 20210315 학습내역(아래)
-
+#### 21_1_exercise1.html
 - META Element 이용
 - HEAD 태그 속 TITLE 태그를 이용해 웹 제목 생성
 - ALIGN Attributes 이용해 정렬 방법
----
+
+#### 21_1_exercise2.html
 - Heading Tag Level을 이용해 텍스트 크기 조절
 - Paragraph Tag(p), Comments Tag(!-- --), LineBreak Tag(br), Horizontal Rule Tag(hr), List Tag(ul,li,ol,dl,dt,dd)
 - List Tag를 이용해 Nested List 꾸리기
