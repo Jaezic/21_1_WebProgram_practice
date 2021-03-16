@@ -31,6 +31,10 @@
 
 ### 20210316 학습내역(아래)
 #### 21_1_exercise5.html
-- Hyperlink Tags의 Link to Another Document에서 Absolute link로 이동하기
-- Hyperlink Tags의 Target Attribute의 _blank로 새 창으로 이동하기
+- Hyperlink Tag의 Link to Another Document에서 Absolute link로 이동하기
+- Hyperlink Tag의 Target Attribute의 _blank로 새 창으로 이동하기
 - Anchor Tag의 name Attribute 그리고 href Attribute을 통해 Specific Section으로 이동하기
+
+#### 21_1_exercise3.1.html
+- blockquote tag를 이용해 인용구 만들기
+- image tag(tag)에서 Relative link를 사용해 이미지 불러오기
