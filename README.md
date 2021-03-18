@@ -38,3 +38,7 @@
 #### 21_1_exercise3.1.html
 - blockquote tag를 이용해 인용구 만들기
 - image tag(tag)에서 Relative link를 사용해 이미지 불러오기
+
+### 20210318 학습내역(아래)
+#### 21_1_exercise3.2.html
+- 
