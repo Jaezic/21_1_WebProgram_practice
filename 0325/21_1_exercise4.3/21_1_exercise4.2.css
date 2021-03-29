@@ -1,0 +1,16 @@
+p#green{
+    color: green;
+}
+p#red{
+    color: red;
+}
+p#italic{
+    font-style: italic;
+}
+h1.compound{
+    font-style: italic;
+    text-decoration: underline;
+}
+p.blue{
+    color:blue;
+}
