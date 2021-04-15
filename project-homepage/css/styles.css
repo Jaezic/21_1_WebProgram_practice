@@ -156,7 +156,7 @@ body {
   float:left;
 }
 .float-right{
-  margin: 50px 0px 0px 275px;
+  margin: 50px 0px 0px 350px;
 }
 /* page */
 .page-section {
@@ -243,29 +243,29 @@ p {
   background-color: #f8f9fa !important;
 }
 
-#language .language-item {
+.language-item {
   max-width: 25rem;
   margin-left: auto;
   margin-right: auto;
 }
 
-#language .language-item .language-link {
+.language-link {
   position: relative;
   display: block;
   margin: 0 auto;
 }
 
-#language .language-item .language-caption {
+.language-caption {
   padding: 1.5rem;
   text-align: center;
   background-color: #fff;
 }
-#language .language-item .language-caption .language-caption-heading {
+.language-caption-heading {
   font-size: 1.5rem;
   font-weight: 700;
   margin-bottom: 0;
 }
-#language .language-item .language-caption .language-caption-subheading {
+.language-caption-subheading {
   font-style: italic;
 }
 .mainnav{
