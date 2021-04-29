@@ -59,3 +59,6 @@
 - Class slector로 style 지정하기
 - ID는 unique(only one ID, only one element), Class는 NOT unique(multiple elements, multiple classes)
 
+### 20210330 학습내역(아래)
+#### 21_1_exercise5.1.html
+- div tag로 block 형으로 
