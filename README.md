@@ -61,4 +61,6 @@
 
 ### 20210330 학습내역(아래)
 #### 21_1_exercise5.1.html
-- div tag로 block 형으로 
+- div tag로 block 형으로 영역 나누기
+- font-style,weight,size,family property 이용하기
+- border-style,color|padding|margin property 이용하기
