@@ -41,4 +41,13 @@
 
 ### 20210318 학습내역(아래)
 #### 21_1_exercise3.2.html
-- dd
+- input tag로 type attribute를 이용해 checkbox, radio, text, password 이용하기
+- radio 형은 반드시 name attribute가 같아야 한다
+- select tag와 option tag로 선택 창 만들기
+- select tag에 size attriubute를 이용해 열거형 리스트 생성
+
+### 20210323 학습내역(아래)
+#### 21_1_exercise4.1.html
+- Internal 형으로 CSS(Cascading Style Sheet) 이용하기 <style type="text/css">
+- selector를 지정해 property 이용하기 (background-color, color)
+- Inline 형으로 CSS 이용하기 (tag 안 style attribute)
