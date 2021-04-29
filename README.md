@@ -41,4 +41,39 @@
 
 ### 20210318 학습내역(아래)
 #### 21_1_exercise3.2.html
-- dd
+- input tag로 type attribute를 이용해 checkbox, radio, text, password 이용하기
+- radio 형은 반드시 name attribute가 같아야 한다
+- select tag와 option tag로 선택 창 만들기
+- select tag에 size attriubute를 이용해 열거형 리스트 생성
+
+### 20210323 학습내역(아래)
+#### 21_1_exercise4.1.html
+- Internal 형으로 CSS(Cascading Style Sheet) 이용하기 <style type="text/css">
+- selector를 지정해 property 이용하기 (background-color, color)
+- Inline 형으로 CSS 이용하기 (tag 안 style attribute)
+
+### 20210325 학습내역(아래)
+#### 21_1_exercise4.2.html
+- External 형으로 CSS 이용하기 <link rel="stylesheet" type="text/css" href="">
+- ID selector로 style 지정하기
+- Class slector로 style 지정하기
+- ID는 unique(only one ID, only one element), Class는 NOT unique(multiple elements, multiple classes)
+
+### 20210330 학습내역(아래)
+#### 21_1_exercise5.1.html
+- div tag로 block 형으로 영역 나누기
+- font-style,weight,size,family property 이용하기
+- border-style,color|padding|margin property 이용하기
+
+### 20210401 학습내역(아래)
+#### 21_1_exercise5.2.html
+- float property를 이용해 영역 나누기
+
+### 20210406 학습내역(아래)
+#### 21_1_exercise5.3.html
+- display property를 이용해 inline, block 설정하기
+- verticial-align property를 이용해 수직 정렬하기
+- text-decoration-line property를 이용해 하이퍼링크 밑줄 지우기
+- @media CSS media의 print 타입을 이용해보기
+- anchor의 Pseudo-class 이용하기(:link, :visited. :hover)
+- first-child Pseudo-class 이용하기 ex) p:first-child, p i:first-child, p:first-child i
