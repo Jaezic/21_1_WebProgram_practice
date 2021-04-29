@@ -45,6 +45,9 @@
 - radio 형은 반드시 name attribute가 같아야 한다
 - select tag와 option tag로 선택 창 만들기
 - select tag에 size attriubute를 이용해 열거형 리스트 생성
+- form tag에 method attribute를 이용해 정보를 전달할 수 있다. (GET, POST)
+- textarea tag로 rows와 cols attribute를 설정해 다중 라인 텍스트를 표시할 수 있다.
+- input tag로 type attribute에서 button, submit, reset을 이용할 수 있다.
 
 ### 20210323 학습내역(아래)
 #### 21_1_exercise4.1.html
@@ -54,9 +57,9 @@
 
 ### 20210325 학습내역(아래)
 #### 21_1_exercise4.2.html
-- External 형으로 CSS 이용하기 <link rel="stylesheet" type="text/css" href="">
-- ID selector로 style 지정하기
-- Class slector로 style 지정하기
+- External 형으로 CSS 이용하기 <link rel="stylesheet" type="text/css" href=""> or @import url(""); or @import "";
+- ID selector로 style 지정하기 (#)
+- Class slector로 style 지정하기 (.)
 - ID는 unique(only one ID, only one element), Class는 NOT unique(multiple elements, multiple classes)
 
 ### 20210330 학습내역(아래)
