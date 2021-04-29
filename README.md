@@ -51,3 +51,11 @@
 - Internal 형으로 CSS(Cascading Style Sheet) 이용하기 <style type="text/css">
 - selector를 지정해 property 이용하기 (background-color, color)
 - Inline 형으로 CSS 이용하기 (tag 안 style attribute)
+
+### 20210325 학습내역(아래)
+#### 21_1_exercise4.2.html
+- External 형으로 CSS 이용하기 <link rel="stylesheet" type="text/css" href="">
+- ID selector로 style 지정하기
+- Class slector로 style 지정하기
+- ID는 unique(only one ID, only one element), Class는 NOT unique(multiple elements, multiple classes)
+
