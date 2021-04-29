@@ -61,19 +61,27 @@
 
 ### 20210330 학습내역(아래)
 #### 21_1_exercise5.1.html
-- div tag로 block 형으로 영역 나누기
-- font-style,weight,size,family property 이용하기
+- div tag 통해 block 형으로 영역 나누기
+- span tag 통해 inline 형으로 영역 나누기
+- font-style,weight,size,family,variant property 이용하기
 - border-style,color|padding|margin property 이용하기
+- tag의 nested 관계에 따라 selector의 property는 상속될 수 있다.
+- font-size 와 font-family property가 같이 필요하다.
+- text-align,decoration,transform 으로 글씨 포맷 설정할 수 있다.
+- width, height property를 이용해 크기 설정하기
+- width, height property에 값을 auto, length(px,cm,etc), %로 입력한다.
+- background-color,image,position,size,repeat,origin,attachment를 통해 영역의 뒷배경을 설정할 수 있다.
 
 ### 20210401 학습내역(아래)
 #### 21_1_exercise5.2.html
 - float property를 이용해 영역 나누기
+- display property를 이용해 inline, block, none 설정하기
 
 ### 20210406 학습내역(아래)
 #### 21_1_exercise5.3.html
-- display property를 이용해 inline, block 설정하기
 - verticial-align property를 이용해 수직 정렬하기
 - text-decoration-line property를 이용해 하이퍼링크 밑줄 지우기
 - @media CSS media의 print 타입을 이용해보기
 - anchor의 Pseudo-class 이용하기(:link, :visited. :hover)
 - first-child Pseudo-class 이용하기 ex) p:first-child, p i:first-child, p:first-child i
+- style 적용의 순은 weight(!important) -> specificity(element<class<id) -> order(last line)이다.
