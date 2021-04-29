@@ -71,3 +71,9 @@
 
 ### 20210406 학습내역(아래)
 #### 21_1_exercise5.3.html
+- display property를 이용해 inline, block 설정하기
+- verticial-align property를 이용해 수직 정렬하기
+- text-decoration-line property를 이용해 하이퍼링크 밑줄 지우기
+- @media CSS media의 print 타입을 이용해보기
+- anchor의 Pseudo-class 이용하기(:link, :visited. :hover)
+- first-child Pseudo-class 이용하기 ex) p:first-child, p i:first-child, p:first-child i
